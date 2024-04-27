@@ -10,3 +10,12 @@ Notebooks: write and run your own code in managed Jupyter Notebook servers that 
 Computer Vision is an area of AI that deals with visual processing. Let's explore some of the possibilities that computer vision brings.
 
 The Seeing AI app is a great example of the power of computer vision. Designed for the blind and low vision community, the Seeing AI app harnesses the power of AI to open up the visual world and describe nearby people, text and objects.
+
+Natural language processing (NLP) is the area of AI that deals with creating software that understands written and spoken language.
+
+NLP enables you to create software that can:
+
+Analyze and interpret text in documents, email messages, and other sources.
+Interpret spoken language, and synthesize speech responses.
+Automatically translate spoken or written phrases between languages.
+Interpret commands and determine appropriate actions.
