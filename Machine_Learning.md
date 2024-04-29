@@ -19,3 +19,5 @@ Analyze and interpret text in documents, email messages, and other sources.
 Interpret spoken language, and synthesize speech responses.
 Automatically translate spoken or written phrases between languages.
 Interpret commands and determine appropriate actions.
+
+Document Intelligence is the area of AI that deals with managing, processing, and using high volumes of a variety of data found in forms and documents. Document intelligence enables you to create software that can automate processing for contracts, health documents, financial forms and more
