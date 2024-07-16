@@ -12,3 +12,11 @@ The fuel efficiency (in miles-per-gallon) of a car based on its engine size, wei
 
 Classification
 Classification is a form of supervised machine learning in which the label represents a categorization, or class. There are two common classification scenarios.
+
+Binary classification
+In binary classification, the label determines whether the observed item is (or isn't) an instance of a specific class. Or put another way, binary classification models predict one of two mutually exclusive outcomes. For example:
+
+Whether a patient is at risk for diabetes based on clinical metrics like weight, age, blood glucose level, and so on.
+Whether a bank customer will default on a loan based on income, credit history, age, and other factors.
+Whether a mailing list customer will respond positively to a marketing offer based on demographic attributes and past purchases.
+In all of these examples, the model predicts a binary true/false or positive/negative prediction for a single possible class.
