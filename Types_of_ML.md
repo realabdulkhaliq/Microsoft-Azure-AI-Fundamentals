@@ -9,3 +9,6 @@ Regression is a form of supervised machine learning in which the label predicted
 The number of ice creams sold on a given day, based on the temperature, rainfall, and windspeed.
 The selling price of a property based on its size in square feet, the number of bedrooms it contains, and socio-economic metrics for its location.
 The fuel efficiency (in miles-per-gallon) of a car based on its engine size, weight, width, height, and length.
+
+Classification
+Classification is a form of supervised machine learning in which the label represents a categorization, or class. There are two common classification scenarios.
