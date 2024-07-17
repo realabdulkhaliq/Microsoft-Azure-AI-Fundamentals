@@ -27,3 +27,5 @@ Multiclass classification extends binary classification to predict a label that 
 The species of a penguin (Adelie, Gentoo, or Chinstrap) based on its physical measurements.
 The genre of a movie (comedy, horror, romance, adventure, or science fiction) based on its cast, director, and budget.
 In most scenarios that involve a known set of multiple classes, multiclass classification is used to predict mutually exclusive labels. For example, a penguin can't be both a Gentoo and an Adelie. However, there are also some algorithms that you can use to train multilabel classification models, in which there may be more than one valid label for a single observation. For example, a movie could potentially be categorized as both science fiction and comedy.
+
+Unsupervised machine learning
