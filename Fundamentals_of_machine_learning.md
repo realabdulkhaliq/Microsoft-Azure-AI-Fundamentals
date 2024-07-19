@@ -11,3 +11,11 @@ A doctor might use clinical data from past patients to run automated tests that 
 A researcher in the Antarctic might use past observations automate the identification of different penguin species (such as Adelie, Gentoo, or Chinstrap) based on measurements of a bird's flippers, bill, and other physical attributes.
 
 Deep learning is an advanced form of machine learning that tries to emulate the way the human brain learns. The key to deep learning is the creation of an artificial neural network that simulates electrochemical activity in biological neurons by using mathematical functions.
+
+Microsoft Azure Machine Learning is a cloud service for training, deploying, and managing machine learning models. It's designed to be used by data scientists, software engineers, devops professionals, and others to manage the end-to-end lifecycle of machine learning projects, including:
+
+Exploring data and preparing it for modeling.
+Training and evaluating machine learning models.
+Registering and managing trained models.
+Deploying trained models for use by applications and services.
+Reviewing and applying responsible AI principles and practices.
