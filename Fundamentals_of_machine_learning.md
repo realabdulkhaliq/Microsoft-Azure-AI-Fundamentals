@@ -12,6 +12,8 @@ A researcher in the Antarctic might use past observations automate the identific
 
 Deep learning is an advanced form of machine learning that tries to emulate the way the human brain learns. The key to deep learning is the creation of an artificial neural network that simulates electrochemical activity in biological neurons by using mathematical functions.
 
+### Microsoft Azure Machine Learning
+
 Microsoft Azure Machine Learning is a cloud service for training, deploying, and managing machine learning models. It's designed to be used by data scientists, software engineers, devops professionals, and others to manage the end-to-end lifecycle of machine learning projects, including:
 
 Exploring data and preparing it for modeling.
@@ -19,3 +21,14 @@ Training and evaluating machine learning models.
 Registering and managing trained models.
 Deploying trained models for use by applications and services.
 Reviewing and applying responsible AI principles and practices.
+
+#### Features and capabilities of Azure Machine Learning
+
+Azure Machine Learning provides the following features and capabilities to support machine learning workloads:
+
+Centralized storage and management of datasets for model training and evaluation.
+On-demand compute resources on which you can run machine learning jobs, such as training a model.
+Automated machine learning (AutoML), which makes it easy to run multiple training jobs with different algorithms and parameters to find the best model for your data.
+Visual tools to define orchestrated pipelines for processes such as model training or inferencing.
+Integration with common machine learning frameworks such as MLflow, which make it easier to manage model training, evaluation, and deployment at scale.
+Built-in support for visualizing and evaluating metrics for responsible AI, including model explainability, fairness assessment, and others.
