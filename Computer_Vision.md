@@ -14,3 +14,8 @@ Most advances in computer vision over the decades have been driven by improvemen
 
 Multi-modal models
 The success of transformers as a way to build language models has led AI researchers to consider whether the same approach would be effective for image data. The result is the development of multi-modal models, in which the model is trained using a large volume of captioned images, with no fixed labels. An image encoder extracts features from images based on pixel values and combines them with text embeddings created by a language encoder. The overall model encapsulates relationships between natural language token embeddings and image features
+
+Image classification: Identifying to which category an image belongs.
+Object detection: Locating individual objects within an image.
+Captioning: Generating appropriate descriptions of images.
+Tagging: Compiling a list of relevant text tags for an image.
