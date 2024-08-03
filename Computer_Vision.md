@@ -19,3 +19,7 @@ Image classification: Identifying to which category an image belongs.
 Object detection: Locating individual objects within an image.
 Captioning: Generating appropriate descriptions of images.
 Tagging: Compiling a list of relevant text tags for an image.
+
+## Azure AI Vision
+
+Microsoft's Azure AI Vision service provides prebuilt and customizable computer vision models that are based on the Florence foundation model and provide various powerful capabilities. With Azure AI Vision, you can create sophisticated computer vision solutions quickly and easily; taking advantage of "off-the-shelf" functionality for many common computer vision scenarios, while retaining the ability to create custom models using your own images.
