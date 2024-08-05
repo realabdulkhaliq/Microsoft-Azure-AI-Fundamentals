@@ -23,3 +23,7 @@ Tagging: Compiling a list of relevant text tags for an image.
 ## Azure AI Vision
 
 Microsoft's Azure AI Vision service provides prebuilt and customizable computer vision models that are based on the Florence foundation model and provide various powerful capabilities. With Azure AI Vision, you can create sophisticated computer vision solutions quickly and easily; taking advantage of "off-the-shelf" functionality for many common computer vision scenarios, while retaining the ability to create custom models using your own images.
+
+### Azure resources for Azure AI Vision service
+
+To use Azure AI Vision, you need to create a resource for it in your Azure subscription. You can use either of the following resource types:
