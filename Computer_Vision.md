@@ -27,3 +27,5 @@ Microsoft's Azure AI Vision service provides prebuilt and customizable computer 
 ### Azure resources for Azure AI Vision service
 
 To use Azure AI Vision, you need to create a resource for it in your Azure subscription. You can use either of the following resource types:
+
+Azure AI Vision: A specific resource for the Azure AI Vision service. Use this resource type if you don't intend to use any other Azure AI services, or if you want to track utilization and costs for your Azure AI Vision resource separately.
