@@ -31,3 +31,14 @@ To use Azure AI Vision, you need to create a resource for it in your Azure subsc
 Azure AI Vision: A specific resource for the Azure AI Vision service. Use this resource type if you don't intend to use any other Azure AI services, or if you want to track utilization and costs for your Azure AI Vision resource separately.
 
 Azure AI services: A general resource that includes Azure AI Vision along with many other Azure AI services; such as Azure AI Language, Azure AI Custom Vision, Azure AI Translator, and others. Use this resource type if you plan to use multiple AI services and want to simplify administration and development.
+
+#### Analyzing images with the Azure AI Vision service
+
+After you've created a suitable resource in your subscription, you can submit images to the Azure AI Vision service to perform a wide range of analytical tasks.
+
+Azure AI Vision supports multiple image analysis capabilities, including:
+
+Optical character recognition (OCR) - extracting text from images.
+Generating captions and descriptions of images.
+Detection of thousands of common objects in images.
+Tagging visual features in images
