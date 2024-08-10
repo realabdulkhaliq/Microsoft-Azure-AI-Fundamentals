@@ -42,3 +42,5 @@ Optical character recognition (OCR) - extracting text from images.
 Generating captions and descriptions of images.
 Detection of thousands of common objects in images.
 Tagging visual features in images
+
+https://portal.vision.cognitive.azure.com/gallery/featured
