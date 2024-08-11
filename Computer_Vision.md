@@ -44,3 +44,6 @@ Detection of thousands of common objects in images.
 Tagging visual features in images
 
 https://portal.vision.cognitive.azure.com/gallery/featured
+
+Optical character recognition
+Azure AI Vision service can use optical character recognition (OCR) capabilities to detect text in images.
