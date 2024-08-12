@@ -47,3 +47,6 @@ https://portal.vision.cognitive.azure.com/gallery/featured
 
 Optical character recognition
 Azure AI Vision service can use optical character recognition (OCR) capabilities to detect text in images.
+
+Describing an image with captions
+Azure AI Vision has the ability to analyze an image, evaluate the objects that are detected, and generate a human-readable phrase or sentence that can describe what was detected in the image.
