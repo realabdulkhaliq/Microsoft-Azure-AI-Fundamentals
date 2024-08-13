@@ -56,3 +56,6 @@ Azure AI Vision can identify thousands of common objects in images.
 
 Tagging visual features
 Azure AI Vision can suggest tags for an image based on its contents. These tags can be associated with the image as metadata that summarizes attributes of the image and can be useful if you want to index an image along with a set of key terms that might be used to search for images with specific attributes or contents.
+
+Training custom models
+If the built-in models provided by Azure AI Vision don't meet your needs, you can use the service to train a custom model for image classification or object detection.
