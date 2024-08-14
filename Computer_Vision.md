@@ -62,3 +62,6 @@ If the built-in models provided by Azure AI Vision don't meet your needs, you ca
 
 Image classification
 An image classification model is used to predict the category, or class of an image.
+
+Object detection
+Object detection models detect and classify objects in an image, returning bounding box coordinates to locate each object. In addition to the built-in object detection capabilities in Azure AI Vision, you can train a custom object detection model with your own images.
