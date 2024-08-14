@@ -59,3 +59,6 @@ Azure AI Vision can suggest tags for an image based on its contents. These tags 
 
 Training custom models
 If the built-in models provided by Azure AI Vision don't meet your needs, you can use the service to train a custom model for image classification or object detection.
+
+Image classification
+An image classification model is used to predict the category, or class of an image.
