@@ -65,3 +65,5 @@ An image classification model is used to predict the category, or class of an im
 
 Object detection
 Object detection models detect and classify objects in an image, returning bounding box coordinates to locate each object. In addition to the built-in object detection capabilities in Azure AI Vision, you can train a custom object detection model with your own images.
+
+Computer vision is built on the analysis and manipulation of numeric pixel values in images. Machine learning models are trained using a large volume of images to enable common computer vision scenarios, such as image classification, object detection, automated image tagging, optical character recognition, and others
