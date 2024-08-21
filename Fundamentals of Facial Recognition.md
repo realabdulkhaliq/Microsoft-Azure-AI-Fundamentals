@@ -13,3 +13,5 @@ Intelligent monitoring - for example, an automobile might include a system that 
 Advertising - analyzing faces in an image can help direct advertisements to an appropriate demographic audience.
 
 Missing persons - using public cameras systems, facial recognition can be used to identify if a missing person is in the image frame.
+
+Identity validation - useful at ports of entry kiosks where a person holds a special entry permit.
