@@ -9,3 +9,5 @@ Security - facial recognition can be used in building security applications, and
 Social media - facial recognition can be used to automatically tag known friends in photographs.
 
 Intelligent monitoring - for example, an automobile might include a system that monitors the driver's face to determine if the driver is looking at the road, looking at a mobile device, or shows signs of tiredness.
+
+Advertising - analyzing faces in an image can help direct advertisements to an appropriate demographic audience.
