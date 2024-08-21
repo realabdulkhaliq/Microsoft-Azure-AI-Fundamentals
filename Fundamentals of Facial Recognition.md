@@ -17,4 +17,4 @@ Identity validation - useful at ports of entry kiosks where a person holds a spe
 Security - facial recognition can be used in building security applications, and increasingly it is used in smart phones operating systems for unlocking devices.
 
 **Face detection**
-Face detection involves identifying regions of an image that contain a human face, typically by returning bounding box coordinates that form a rectangle around the face
+Face detection involves identifying regions of an image that contain a human face, typically by returning bounding box coordinates that form a rectangle around the face.
