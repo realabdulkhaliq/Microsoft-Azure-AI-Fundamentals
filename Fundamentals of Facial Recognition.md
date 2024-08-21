@@ -15,3 +15,5 @@ Missing persons - using public cameras systems, facial recognition can be used t
 Identity validation - useful at ports of entry kiosks where a person holds a special entry permit.
 
 Security - facial recognition can be used in building security applications, and increasingly it is used in smart phones operating systems for unlocking devices.
+
+**Face detection**
