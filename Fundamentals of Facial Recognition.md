@@ -23,3 +23,5 @@ With Face analysis, facial features can be used to train machine learning models
 
 Facial recognition
 A further application of facial analysis is to train a machine learning model to identify known individuals from their facial features. This is known as facial recognition, and uses multiple images of an individual to train the model. This trains the model so that it can detect those individuals in new images on which it wasn't trained.
+
+## Get started with facial analysis on Azure
