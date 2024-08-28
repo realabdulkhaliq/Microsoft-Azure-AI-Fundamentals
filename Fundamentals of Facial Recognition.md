@@ -25,3 +25,7 @@ Facial recognition
 A further application of facial analysis is to train a machine learning model to identify known individuals from their facial features. This is known as facial recognition, and uses multiple images of an individual to train the model. This trains the model so that it can detect those individuals in new images on which it wasn't trained.
 
 ## Get started with facial analysis on Azure
+
+Microsoft Azure provides multiple Azure AI services that you can use to detect and analyze faces, including:
+
+Azure AI Vision, which offers face detection and some basic face analysis, such as returning the bounding box coordinates around an image.
