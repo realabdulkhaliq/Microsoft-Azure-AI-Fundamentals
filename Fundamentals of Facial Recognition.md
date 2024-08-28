@@ -31,3 +31,5 @@ Microsoft Azure provides multiple Azure AI services that you can use to detect a
 Azure AI Vision, which offers face detection and some basic face analysis, such as returning the bounding box coordinates around an image.
 
 Azure AI Video Indexer, which you can use to detect and identify faces in a video.
+
+Azure AI Face, which offers pre-built algorithms that can detect, recognize, and analyze faces.
