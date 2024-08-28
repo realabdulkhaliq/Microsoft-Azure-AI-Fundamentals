@@ -29,3 +29,5 @@ A further application of facial analysis is to train a machine learning model to
 Microsoft Azure provides multiple Azure AI services that you can use to detect and analyze faces, including:
 
 Azure AI Vision, which offers face detection and some basic face analysis, such as returning the bounding box coordinates around an image.
+
+Azure AI Video Indexer, which you can use to detect and identify faces in a video.
