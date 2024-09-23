@@ -18,3 +18,5 @@ As the state of the art for NLP has advanced, the ability to train models that e
 Azure AI Language is a part of the Azure AI services offerings that can perform advanced natural language processing over unstructured text. Azure AI Language's text analysis features include:
 
 **Named entity recognition** identifies people, places, events, and more. This feature can also be customized to extract custom categories.
+
+**Entity linking** identifies known entities together with a link to Wikipedia.
