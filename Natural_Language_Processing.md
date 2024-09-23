@@ -26,3 +26,5 @@ Personal identifying information (PII) detection identifies personally sensitive
 Language detection identifies the language of the text and returns a language code such as "en" for English.
 
 Sentiment analysis and opinion mining identifies whether text is positive or negative.
+
+Summarization summarizes text by identifying the most important information.
