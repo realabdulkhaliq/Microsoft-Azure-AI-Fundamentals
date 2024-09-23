@@ -12,3 +12,5 @@ After tokenizing the words, you can perform some analysis to count the number of
 
 Semantic language models
 As the state of the art for NLP has advanced, the ability to train models that encapsulate the semantic relationship between tokens has led to the emergence of powerful language models. At the heart of these models is the encoding of language tokens as vectors (multi-valued arrays of numbers) known as embeddings.
+
+### Get started with text analysis
