@@ -20,3 +20,5 @@ Azure AI Language is a part of the Azure AI services offerings that can perform 
 **Named entity recognition** identifies people, places, events, and more. This feature can also be customized to extract custom categories.
 
 **Entity linking** identifies known entities together with a link to Wikipedia.
+
+Personal identifying information (PII) detection identifies personally sensitive information, including personal health information (PHI).
