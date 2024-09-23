@@ -14,3 +14,7 @@ Semantic language models
 As the state of the art for NLP has advanced, the ability to train models that encapsulate the semantic relationship between tokens has led to the emergence of powerful language models. At the heart of these models is the encoding of language tokens as vectors (multi-valued arrays of numbers) known as embeddings.
 
 ### Get started with text analysis
+
+Azure AI Language is a part of the Azure AI services offerings that can perform advanced natural language processing over unstructured text. Azure AI Language's text analysis features include:
+
+Named entity recognition identifies people, places, events, and more. This feature can also be customized to extract custom categories.
