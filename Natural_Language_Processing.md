@@ -21,7 +21,7 @@ Azure AI Language is a part of the Azure AI services offerings that can perform 
 
 **Entity linking** identifies known entities together with a link to Wikipedia.
 
-Personal identifying information (PII) detection identifies personally sensitive information, including personal health information (PHI).
+**Personal identifying information (PII)** detection identifies personally sensitive information, including personal health information (PHI).
 
 Language detection identifies the language of the text and returns a language code such as "en" for English.
 
