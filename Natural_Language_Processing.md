@@ -28,3 +28,5 @@ Language detection identifies the language of the text and returns a language co
 Sentiment analysis and opinion mining identifies whether text is positive or negative.
 
 Summarization summarizes text by identifying the most important information.
+
+Key phrase extraction lists the main concepts from unstructured text.
