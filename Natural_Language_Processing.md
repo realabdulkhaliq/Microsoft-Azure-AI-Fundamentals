@@ -30,3 +30,7 @@ Azure AI Language is a part of the Azure AI services offerings that can perform 
 **Summarization** summarizes text by identifying the most important information.
 
 **Key phrase extraction** lists the main concepts from unstructured text.
+
+##### Link
+
+https://learn.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview
