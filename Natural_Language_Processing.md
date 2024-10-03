@@ -34,3 +34,7 @@ Azure AI Language is a part of the Azure AI services offerings that can perform 
 ##### Link
 
 https://learn.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview
+
+## Understand question answering
+
+Question answering supports natural language AI workloads that require an automated conversational element. Typically, question answering is used to build bot applications that respond to customer queries. Question answering capabilities can respond immediately, answer concerns accurately, and interact with users in a natural multi-turned way. Bots can be implemented on a range of platforms, such as a web site or a social media platform.
