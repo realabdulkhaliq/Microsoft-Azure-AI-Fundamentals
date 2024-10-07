@@ -40,3 +40,18 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/text-analytics/overvi
 Question answering supports natural language AI workloads that require an automated conversational element. Typically, question answering is used to build bot applications that respond to customer queries. Question answering capabilities can respond immediately, answer concerns accurately, and interact with users in a natural multi-turned way. Bots can be implemented on a range of platforms, such as a web site or a social media platform.
 
 ## Conversational language understanding
+
+To work with conversational language understanding (CLU), you need to take into account three core concepts: utterances, entities, and intents.
+Utterances
+An utterance is an example of something a user might say, and which your application must interpret. For example, when using a home automation system, a user might use the following utterances:
+
+"Switch the fan on."
+
+"Turn on the light."
+
+Entities
+An entity is an item to which an utterance refers. For example, fan and light in the following utterances:
+
+"Switch the fan on."
+
+"Turn on the light."
