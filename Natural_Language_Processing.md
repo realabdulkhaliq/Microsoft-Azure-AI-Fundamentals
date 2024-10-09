@@ -58,3 +58,5 @@ An entity is an item to which an utterance refers. For example, fan and light in
 
 Intents
 An intent represents the purpose, or goal, expressed in a user's utterance. For example, for both of the previously considered utterances, the intent is to turn a device on; so in your CLU application, you might define a TurnOn intent that is related to these utterances.
+
+### Get started with conversational language understanding in Azure
