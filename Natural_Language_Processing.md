@@ -60,3 +60,12 @@ Intents
 An intent represents the purpose, or goal, expressed in a user's utterance. For example, for both of the previously considered utterances, the intent is to turn a device on; so in your CLU application, you might define a TurnOn intent that is related to these utterances.
 
 ### Get started with conversational language understanding in Azure
+
+Authoring
+After you've created an authoring resource, you can use it to train a CLU model. To train a model, start by defining the entities and intents that your application will predict as well as utterances for each intent that can be used to train the predictive model.
+
+CLU provides a comprehensive collection of prebuilt domains that include pre-defined intents and entities for common scenarios; which you can use as a starting point for your model. You can also create your own entities and intents.
+
+When you create entities and intents, you can do so in any order. You can create an intent, and select words in the sample utterances you define for it to create entities for them; or you can create the entities ahead of time and then map them to words in utterances as you're creating the intents.
+
+You can write code to define the elements of your model, but in most cases it's easiest to author your model using the Language studio - a web-based interface for creating and managing CLU applications.
